@@ -45,10 +45,20 @@ Currently focused on building **AI-powered tools** that improve developer produc
 - Using AI to **make software simpler, not more complex**
 
 ---
+
+## 🤝 Connect with Me
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ptamang/)
+[![LinkedIn Badge](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TechPdo)
+
+---
+
 ### 📊 GitHub Activity
 ![Followers](https://img.shields.io/github/followers/TechPdo?style=flat)
 ![Stars](https://img.shields.io/github/stars/TechPdo?style=flat)
 ![Repos](https://img.shields.io/badge/Public%20Repos-Active-success)
 
 ---
-📫 **LinkedIn:** [linkedin.com/in/ptamang](https://www.linkedin.com/in/ptamang/)
+
+### 🌐 Tech Communities I’m Part Of
+[![Community](https://img.shields.io/badge/.NET%20Community-red?style=for-the-badge&logo=meetup&logoColor=white)](https://www.meetup.com/dot-net-hub-kathmandu/)
+
