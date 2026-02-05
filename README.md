@@ -67,9 +67,9 @@ Currently focused on building **AI-powered tools** that improve developer produc
 ---
 
 ### 🤝 Connect with Me
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ptamang/)
-[![LinkedIn Badge](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TechPdo)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TechPdo)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ptamang/)
+[![LinkedIn Badge](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=x&logoColor=white)](https://x.com/TechPdo)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TechPdo)
 
 ---
 
