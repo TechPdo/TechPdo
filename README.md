@@ -1,11 +1,10 @@
-## 👋 Hi, I’m Pasang Tamang
+# Hi, I’m Pasang Tamang 👋
 
 **Solutions Architect | .NET Engineer | Umbraco Specialist | Former C# Corner MVP**
 
 I design and build **scalable, API-driven backend systems** using **ASP.NET Core**, **Clean Architecture**, and **Umbraco CMS**.  
 Currently focused on building **AI-powered tools** that improve developer productivity and business workflows — *practical AI, not LLM deep dives*.
 
----
 
 ### 🧰 Core Expertise
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat&logo=dotnet&logoColor=white)
@@ -16,6 +15,10 @@ Currently focused on building **AI-powered tools** that improve developer produc
 ![Umbraco](https://img.shields.io/badge/Umbraco-3544B1?style=flat&logo=umbraco&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat&logo=anthropic&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat&logo=google-chrome&logoColor=white)
 
 ---
 
@@ -46,19 +49,29 @@ Currently focused on building **AI-powered tools** that improve developer produc
 
 ---
 
-## 🤝 Connect with Me
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ptamang/)
-[![LinkedIn Badge](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TechPdo)
-
----
-
 ### 📊 GitHub Activity
 ![Followers](https://img.shields.io/github/followers/TechPdo?style=flat)
 ![Stars](https://img.shields.io/github/stars/TechPdo?style=flat)
 ![Repos](https://img.shields.io/badge/Public%20Repos-Active-success)
 
+![GitHub Contribution Graph](https://ghchart.rshah.org/TechPdo)
+
+---
+
+### 📝 Latest Articles
+
+- [Automating Image Captions & Alt Text in ASP.NET Core MVC with Gemini AI](https://www.c-sharpcorner.com/article/automating-image-captions-alt-text-in-asp-net-core-mvc-with-gemini-ai/)
+- [Secure Password Storage in ASP.NET Core — Best Practices](https://www.c-sharpcorner.com/article/secure-password-storage-in-asp-net-core-best-practices/)
+- [PDF Generation in ASP.NET Core MVC using Puppeteer Sharp](https://www.c-sharpcorner.com/article/pdf-generation-in-asp-net-core-mvc-using-puppeteer-sharp/)
+
+---
+
+### 🤝 Connect with Me
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ptamang/)
+[![LinkedIn Badge](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TechPdo)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TechPdo)
+
 ---
 
 ### 🌐 Tech Communities I’m Part Of
 [![Community](https://img.shields.io/badge/.NET%20Community-red?style=for-the-badge&logo=meetup&logoColor=white)](https://www.meetup.com/dot-net-hub-kathmandu/)
-
