@@ -66,6 +66,15 @@ Currently focused on building **AI-powered tools** that improve developer produc
 
 ---
 
+### 📝 Published nuget Packages
+
+| Package | NuGet |
+| ------- | ----- |
+| AI.Diagnostics | [![NuGet](https://img.shields.io/nuget/v/AI.Diagnostics)](https://www.nuget.org/packages/AI.Diagnostics) [![NuGet downloads](https://img.shields.io/nuget/dt/AI.Diagnostics.svg)](https://www.nuget.org/packages/AI.Diagnostics) |
+| Our.AspNetCore.SpamGuard | [![NuGet](https://img.shields.io/nuget/v/Our.AspNetCore.SpamGuard)](https://www.nuget.org/packages/Our.AspNetCore.SpamGuard) [![NuGet downloads](https://img.shields.io/nuget/dt/Our.AspNetCore.SpamGuard.svg)](https://www.nuget.org/packages/Our.AspNetCore.SpamGuard) |
+
+---
+
 ### 🤝 Connect with Me
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ptamang/)
 [![LinkedIn Badge](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=x&logoColor=white)](https://x.com/TechPdo)
