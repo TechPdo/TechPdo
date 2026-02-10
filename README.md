@@ -60,6 +60,7 @@ Currently focused on building **AI-powered tools** that improve developer produc
 
 ### 📝 Latest Articles
 
+- [Running Claude Code Locally for Free with Ollama](https://medium.com/@hy2pasang/running-claude-code-locally-for-free-with-ollama-aee8112ccb4d)
 - [Automating Image Captions & Alt Text in ASP.NET Core MVC with Gemini AI](https://www.c-sharpcorner.com/article/automating-image-captions-alt-text-in-asp-net-core-mvc-with-gemini-ai/)
 - [Secure Password Storage in ASP.NET Core — Best Practices](https://www.c-sharpcorner.com/article/secure-password-storage-in-asp-net-core-best-practices/)
 - [PDF Generation in ASP.NET Core MVC using Puppeteer Sharp](https://www.c-sharpcorner.com/article/pdf-generation-in-asp-net-core-mvc-using-puppeteer-sharp/)
