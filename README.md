@@ -1,6 +1,6 @@
 # Hi, I’m Pasang Tamang 👋
 
-**Solutions Architect | .NET Engineer | Umbraco Specialist | Former C# Corner MVP**
+**Solutions Architect | .NET Engineer | Umbraco Specialist | Microsoft MVP | Former C# Corner MVP**
 
 I design and build **scalable, API-driven backend systems** using **ASP.NET Core**, **Clean Architecture**, and **Umbraco CMS**.  
 Currently focused on building **AI-powered tools** that improve developer productivity and business workflows — *practical AI, not LLM deep dives*.
@@ -73,6 +73,15 @@ Currently focused on building **AI-powered tools** that improve developer produc
 | ------- | ----- |
 | AI.Diagnostics | [![NuGet](https://img.shields.io/nuget/v/AI.Diagnostics)](https://www.nuget.org/packages/AI.Diagnostics) [![NuGet downloads](https://img.shields.io/nuget/dt/AI.Diagnostics.svg)](https://www.nuget.org/packages/AI.Diagnostics) |
 | Our.AspNetCore.SpamGuard | [![NuGet](https://img.shields.io/nuget/v/Our.AspNetCore.SpamGuard)](https://www.nuget.org/packages/Our.AspNetCore.SpamGuard) [![NuGet downloads](https://img.shields.io/nuget/dt/Our.AspNetCore.SpamGuard.svg)](https://www.nuget.org/packages/Our.AspNetCore.SpamGuard) |
+
+---
+
+### 🏆 Recognition
+<div align="left">
+<a href="https://mvp.microsoft.com/en-US/MVP/profile/e86d96e9-796a-4ea6-a173-719f119f075b" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Microsoft_MVP_banner.png/250px-Microsoft_MVP_banner.png" />
+</a>
+</div>
 
 ---
 
