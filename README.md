@@ -73,6 +73,7 @@ Currently focused on building **AI-powered tools** that improve developer produc
 | ------- | ----- |
 | AI.Diagnostics | [![NuGet](https://img.shields.io/nuget/v/AI.Diagnostics)](https://www.nuget.org/packages/AI.Diagnostics) [![NuGet downloads](https://img.shields.io/nuget/dt/AI.Diagnostics.svg)](https://www.nuget.org/packages/AI.Diagnostics) |
 | Our.AspNetCore.SpamGuard | [![NuGet](https://img.shields.io/nuget/v/Our.AspNetCore.SpamGuard)](https://www.nuget.org/packages/Our.AspNetCore.SpamGuard) [![NuGet downloads](https://img.shields.io/nuget/dt/Our.AspNetCore.SpamGuard.svg)](https://www.nuget.org/packages/Our.AspNetCore.SpamGuard) |
+| Our.Umbraco.PropertyToolTip | [![NuGet](https://img.shields.io/nuget/v/Our.Umbraco.PropertyToolTip)](https://www.nuget.org/packages/Our.Umbraco.PropertyToolTip) [![NuGet downloads](https://img.shields.io/nuget/dt/Our.Umbraco.PropertyToolTip.svg)](https://www.nuget.org/packages/Our.Umbraco.PropertyToolTip) |
 
 ---
 
