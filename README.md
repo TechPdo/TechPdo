@@ -59,6 +59,7 @@ Currently focused on building **AI-powered tools** that improve developer produc
 ---
 
 ### 📝 Latest Articles
+- [From Umbraco 8 to Umbraco 17 in One Leap: uSync, Cursor, and the Umbraco MCP](https://skrift.io/issues/from-umbraco-8-to-umbraco-17-in-one-leap-usync-cursor-and-the-umbraco-mcp/)
 - [Two-Factor Authentication (2FA) and Passkey Authentication in ASP.NET Core](https://www.c-sharpcorner.com/article/two-factor-authentication-2fa-and-passkey-authentication-in-asp-net-core/)
 - [Running Claude Code Locally for Free with Ollama](https://medium.com/@hy2pasang/running-claude-code-locally-for-free-with-ollama-aee8112ccb4d)
 - [Automating Image Captions & Alt Text in ASP.NET Core MVC with Gemini AI](https://www.c-sharpcorner.com/article/automating-image-captions-alt-text-in-asp-net-core-mvc-with-gemini-ai/)
